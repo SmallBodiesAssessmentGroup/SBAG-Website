@@ -36,6 +36,7 @@ theme:
 nav:
   - Home: index.md
   - Committee: committee.md
+  - Purpose and Scope: purpose.md
   - SC Code of Conduct: code-of-conduct.md
   - SBAG Meeting Information:
     - Upcoming Meetings: meetings/index.md
