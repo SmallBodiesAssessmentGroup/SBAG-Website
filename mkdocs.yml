@@ -1,0 +1,65 @@
+site_name: Small Bodies Assessment Group (SBAG)
+site_url: https://sbag.github.io/
+site_description: >-
+  The Small Bodies Assessment Group (SBAG) was established by NASA in March 2008
+  to identify scientific priorities and opportunities for the exploration of
+  asteroids, comets, interplanetary dust, small satellites, and Trans-Neptunian
+  Objects.
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Committee: committee.md
+  - SC Code of Conduct: code-of-conduct.md
+  - SBAG Meeting Information:
+    - Upcoming Meetings: meetings/index.md
+    - Meeting Archive: meetings/archive.md
+  - Findings:
+    - Recent Findings: findings/index.md
+    - Findings Archive: findings/archive.md
+  # - SBAG Goals Document: goals.md
+  # - Other SBAG Documents: documents.md
+  # - Presentations by SBAG: reports.md
+  # - SBAG Decadal Survey Materials: decadal.md
+  # - Science Nuggets: science.md
+  - Early-Career Opportunities: early_career.md
+  - Missions: missions.md
+  - Small Bodies Resources: resources.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
