@@ -17,9 +17,9 @@
 | Flaviane Venditti | | *University of Central Florida* | 8/23–8/26 |
 | Anne Verbiscer | | *University of Virginia* | 8/23–8/26 |
 
-### Representatives
+### Observers
 
-> NASA HQ Liaison – Tom Statler
+> Tom Statler, NASA
 
 ### Past Steering Committee Members
 
@@ -104,10 +104,8 @@ Additional Information on Steering Committee Membership:
 
 - Application for Steering Committee Membership requires a) a two-page CV, which should include a description of participation in SBAG or other small bodies community organizations, and b) a short (one-page or equivalent) statement of interest. Previous participation in SBAG is preferred, but not required.
 
-- Travel for Steering Committee Members from U. S. institutions to SBAG meetings is paid for by NASA.
-
 - The Steering Committee holds monthly telecons to plan the agenda for the next meeting.
 
-- The Steering Committee produces a list of "Findings" after each meeting and solicits feedback on those findings from the community. Findings are then passed forward to NASA. Findings are posted on the SBAG website.
+- The Steering Committee produces a list of Community Statements after each meeting and solicits feedback on them from the community. Community Statements are posted on the SBAG website and shared with parties that may be interested.
 
-- Steering Committee membership openings are advertised via the SBAG list, the DPS Newsletter, and the Planetary Exploration Newsletter (PEN).
+- Steering Committee membership openings are advertised via the Small Bodies Community Google Group, the DPS Newsletter, and the Planetary Exploration Newsletter (PEN), and other channels.
