@@ -24,6 +24,11 @@ Small Body Target(s): 617 Patroclus, 617 I Menoetius, 3548 Eurybates, 11351 Leuc
 
 ## Current Missions
 
+**OSIRIS-APEX (2023–present)**
+[Mission Website](https://science.nasa.gov/mission/osiris-apex/)
+Small Body Target(s): 99942 Apophis
+
+
 **OSIRIS-Rex (2016–present)**
 [Mission Website](https://www.asteroidmission.org/)
 Small Body Target(s): 101955 Bennu
