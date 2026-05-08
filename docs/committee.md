@@ -24,57 +24,110 @@
 ### Past Steering Committee Members
 
 > Darryl Z. Seligman (8/23–1/26)
+
 > Olivier Barnouin (8/22–8/25)
+
 > Joe Masiero (8/22–8/25)
+
 > Prajkta Mane (8/22–8/25)
+
 > Paul Abell (8/11–8/15)
+
 > Dan Adamo (8/17–8/20)
+
 > Elena Adams (8/18–8/21)
+
 > Justin Atchison (8/21–8/24)
+
 > Brent Barbee (8/14–8/17)
+
 > James Bauer (9/14–8/17)
+
 > Beau Bierhaus (9/14–8/17)
+
 > William Bottke (10/07–8/11)
+
 > Maitrayee Bose (8/19–8/22)
+
 > Dan Britt (9/14–8/17)
+
 > Bonnie Buratti (8/13–8/16), Chair (8/19–8/22)
+
 > Michael Busch (8/20–8/23)
+
 > Julie Castillo-Rogez (8/16–8/19)
+
 > Nancy Chabot (8/11–8/17), Chair (8/13–8/16)
+
 > Paul Chodas (8/16–8/19)
+
 > Anita Cochran (10/07–8/12)
+
 > Terik Daly (8/19–1/22)
+
 > John Dankanich (8/11–8/15)
+
 > Neil Dello Russo (8/12–8/15)
+
 > Michael Disanti (8/18–8/21)
+
 > Jessie Dotson (8/19–8/22)
+
 > Carolyn Ernst (8/18–8/20)
+
 > Lori Feaga (8/15–8/18)
+
 > Yan Fernandez (8/11–8/14)
+
 > David Gerdes (8/18–8/21)
+
 > Tommy Grav (8/13–8/16)
+
 > Will Grundy (8/12–8/15)
+
 > Christine Hartzell (8/16–8/19)
+
 > Mihaly Horanyi (8/20–8/23)
+
 > Henry Hsieh (8/21–8/24)
+
 > Stephanie Jarmak (8/21–1/24)
+
 > Amy Mainzer (8/11–8/13)
+
 > Tim McCoy (10/07–9/09)
+
 > Carolyn Mercer (8/15–8/18)
+
 > Stefanie Milam (8/20–8/23)
+
 > Keith Noll (10/07–8/12)
+
 > William O'Hara (8/20–8/23)
+
 > Andy Rivkin (8/17–8/20)
+
 > Jennifer Scully (8/19–8/22)
+
 > Angela Stickle (8/15–01/18)
+
 > Tim Swindle, Chair (8/16–8/19)
+
 > Mark Sykes (10/07–9/09), Chair (9/09–8/13)
+
 > Patrick Taylor (8/17–8/20)
+
 > Timothy Titus (8/21–8/24)
+
 > Faith Vilas, Chair (10/07–9/09)
+
 > Hal Weaver (10/07–8/12)
+
 > Paul Weissman (10/07–8/11)
+
 > Mike Zolensky (9/09–8/11)
+
+
 
 ### SBAG Steering Committee Membership Guidelines
 

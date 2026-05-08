@@ -11,4 +11,4 @@ SBAG meetings include a time slot for students and early-career researchers to p
 
 The early-career SBAG Coordination Lead is a full member of the SBAG steering committee and assists in the organization and running of the SBAG meetings. Each term is 2.5 years with 6 months of overlap between two successive early-career coordination leads.
 
-If you have any questions about the early-career opportunities within SBAG, please contact the current Early-Career SBAG Coordination Lead, Ben Cassese (bcassese@gmail.com).
+If you have any questions about the early-career opportunities within SBAG, please contact the current Early-Career SBAG Coordination Lead, Ben Cassese (benjamin (dot) cassese (at) cfa (dot) harvard (dot) edu)
