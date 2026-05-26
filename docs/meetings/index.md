@@ -9,10 +9,11 @@ To register, please submit [this form](https://forms.gle/tFHNtwxrWqwR7iXCA) by J
 
 ## Meeting Agenda
 
-Consider using a website like this one to convert the meeting agenda times into your own time zone: https://www.timeanddate.com/worldclock/converter.html
+The times below are given in Eastern Daylight Time. To convert the meeting times to your own time zone, consider using a website such as [this one](https://www.timeanddate.com/worldclock/converter.html).
 
 
 ### June 9, 2026
+The June 9 sessions will be chaired by Lorraine Fesq & Anne Verbiscer.
 
 | Start Time (EDT) | Topic | Speaker |
 |------------------|-------|----------|
@@ -32,6 +33,7 @@ Consider using a website like this one to convert the meeting agenda times into 
 
 
 ### June 10, 2026
+The June 10 sessions will be chaired by Dani DellaGiustina & Flaviane Venditti.
 
 | Start Time (EDT) | Topic | Speaker |
 |------------------|-------|----------|
@@ -55,6 +57,8 @@ Consider using a website like this one to convert the meeting agenda times into 
 
 
 ### June 11, 2026
+The June 11 sessions will be chaired by Day 3 = Davide Farnocchia & Motoo Ito.
+
 | Start Time (EDT) | Topic | Speaker |
 |------------------|-------|----------|
 | 3:00 PM | Day 3 Framing & Objectives | Terik Daly |
