@@ -57,7 +57,7 @@ The June 10 sessions will be chaired by Dani DellaGiustina & Flaviane Venditti.
 
 
 ### June 11, 2026
-The June 11 sessions will be chaired by Day 3 = Davide Farnocchia & Motoo Ito.
+The June 11 sessions will be chaired by Davide Farnocchia & Motoo Ito.
 
 | Start Time (EDT) | Topic | Speaker |
 |------------------|-------|----------|
