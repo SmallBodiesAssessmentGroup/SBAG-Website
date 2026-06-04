@@ -10,7 +10,6 @@
 | Lorraine Fesq | Technology Lead | *JPL/Caltech* | 8/24–8/27 |
 | Masatoshi Hirabayashi | | *Georgia Institute of Technology* | 8/25–8/28 |
 | Motoo Ito | International Representative | *Japan Agency for Marine-Earth Science Technology* | 3/24–8/27 |
-| Hannah Kaplan | | *NASA Goddard Space Flight Center* | 8/24–8/27 |
 | Daniel Mazanek | Human Exploration Lead | *NASA Langley Research Center* | 8/23–8/26 |
 | Patrick Michel | | *Observatoire de la Cote d'Azur, CNRS* | 8/24–8/27 |
 | Cristina Thomas | | *Northern Arizona University* | 8/25–8/28 |
@@ -22,6 +21,8 @@
 > Tom Statler, NASA
 
 ### Past Steering Committee Members
+
+> Hannah Kaplan (8/24–4/26)
 
 > Darryl Z. Seligman (8/23–1/26)
 
