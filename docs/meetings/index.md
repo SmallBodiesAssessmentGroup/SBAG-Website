@@ -42,7 +42,7 @@ The June 10 sessions will be chaired by Dani DellaGiustina & Flaviane Venditti.
 | 12:30 PM | CLPS Program and Potential Lessons for Small Bodies Missions | Brad Bailey |
 | 12:45 PM | Early Career Invited Talk #1 | Zexi Xing |
 | 12:55 PM | Early Career Invited Talk #2 | Brian Murphy |
-| 1:05 PM | Early Career Lightning Talks | TBD |
+| 1:05 PM | Early Career Lightning Talks | Cassidy Walker & Steven Stetzler |
 | 1:15 PM | Break |  |
 | 1:30 PM | 3I/ATLAS Post-Perihelion Observations - JWST | Martin Cordiner |
 | 1:40 PM | 3I/ATLAS Post-Perihelion Observations - ALMA | Luis Eduardo Salazar Manzano |
