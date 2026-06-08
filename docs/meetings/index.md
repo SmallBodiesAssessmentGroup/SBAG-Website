@@ -19,8 +19,8 @@ The June 9 sessions will be chaired by Lorraine Fesq & Anne Verbiscer.
 |------------------|-------|----------|
 | 9:00 AM | Welcome & Opening Remarks | Terik Daly |
 | 9:15 AM | NASA Planetary Science Division (PSD) Update | Louise Prockter |
-| 9:50 AM | NASA Planetary Defense Coordination Office (PDCO) Update | Kelly Fast |
-| 10:10 AM | NASA Small Bodies Science Update | Tom Statler |
+| 9:50 AM | NASA Small Bodies Science Update | Tom Statler |
+| 10:00 AM | NASA Planetary Defense Coordination Office (PDCO) Update | Kelly Fast |
 | 10:25 AM | Break |  |
 | 10:40 AM | Hera | Patrick Michel |
 | 10:50 AM | RAMSES | Paolo Martino |
