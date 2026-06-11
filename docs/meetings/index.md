@@ -71,7 +71,7 @@ The June 11 sessions will be chaired by Davide Farnocchia & Motoo Ito.
 | 4:15 PM | Open Mic Session in Breakout Rooms | led by the Steering Committee |
 | 4:40 PM | Break |  |
 | 4:55 PM | MMX | Ryodo Hemmi |
-| 5:05 PM | Hayabusa2 | Satoshi Tanaka |
+| 5:05 PM | Hayabusa2# | Satoshi Tanaka |
 | 5:15 PM | DESTINY+ | Tomoko Arai |
 | 5:25 PM | Tianwen-2 | Zhang He |
 | 5:35 PM | Synthesis, Community Statements, and Closing Remarks | led by Terik Daly |
