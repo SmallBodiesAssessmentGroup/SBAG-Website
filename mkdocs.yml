@@ -7,6 +7,8 @@ site_description: >-
   Objects.
 
 theme:
+  logo: assets/banner.png
+  favicon: assets/square_banner.png
   name: material
   palette:
     # Light mode
@@ -38,20 +40,52 @@ nav:
   - Committee: committee.md
   - Purpose and Scope: purpose.md
   - SC Code of Conduct: code-of-conduct.md
-  - SBAG Meeting Information:
-    - Upcoming Meetings: meetings/index.md
-    - Meeting Archive: meetings/archive.md
-  - Findings:
-    - Recent Findings: findings/index.md
-    - Findings Archive: findings/archive.md
+  - Early-Career Opportunities: early_career.md
+  - Missions: missions.md
+  - Small Bodies Resources: resources.md
+  - Upcoming SBAG Meeting Information: meetings/index.md
+  - Meetings, Findings, and Statements:
+      - Recent Findings: findings/index.md
+      - Archives:
+          - Archive Overview: findings/archive.md
+          - "SBAG 33: Jun 24-25, 2025": findings/previous/sbag33.md
+          - "SBAG 32: Jan 7-9, 2025": findings/previous/sbag32.md
+          - "SBAG 31: Jul 11-12, 2024": findings/previous/sbag31.md
+          - "SBAG 30: Jan 30-1, 2024": findings/previous/sbag30.md
+          - "SBAG 29: Jun 11-13, 2023": findings/previous/sbag29.md
+          - "SBAG 28: Jan 24-25, 2023": findings/previous/sbag28.md
+          - "SBAG 27: Jun 7-9, 2022": findings/previous/sbag27.md
+          - "SBAG 26: Jan 24-25, 2022": findings/previous/sbag26.md
+          - "SBAG 25: Jun 7-8, 2021": findings/previous/sbag25.md
+          - "SBAG 24: Jan 26-27, 2021": findings/previous/sbag24.md
+          - "SBAG 23: Jun 1-2, 2020": findings/previous/sbag23.md
+          - "SBAG 22: Jan 14-16, 2020": findings/previous/sbag22.md
+          - "SBAG 21: Jun 24-25, 2019": findings/previous/sbag21.md
+          - "SBAG 20: Jan 29-31, 2019": findings/previous/sbag20.md
+          - "SBAG 19: Jun 13-14, 2018": findings/previous/sbag19.md
+          - "SBAG 18: Jan 17-18, 2018": findings/previous/sbag18.md
+          - "SBAG 17: Jun 12-14, 2017": findings/previous/sbag17.md
+          - "SBAG 16: Jan 11-13, 2017": findings/previous/sbag16.md
+          - "SBAG 15: Jun 28-30, 2016": findings/previous/sbag15.md
+          - "SBAG 14: Jan 27-29, 2016": findings/previous/sbag14.md
+          - "SBAG 13: Jun 29-1, 2015": findings/previous/sbag13.md
+          - "SBAG 12: Jan 6-7, 2015": findings/previous/sbag12.md
+          - "SBAG 11: Jul 29-31, 2014": findings/previous/sbag11.md
+          - "SBAG 10: Jan 8-9, 2014": findings/previous/sbag10.md
+          - "SBAG 9: Jul 10-11, 2013": findings/previous/sbag09.md
+          - "SBAG 8: Jan 14-16, 2013": findings/previous/sbag08.md
+          - "SBAG 7: Jul 10-11, 2012": findings/previous/sbag07.md
+          - "SBAG 6: Jan 17-18, 2012": findings/previous/sbag06.md
+          - "SBAG 5: Aug 25-26, 2011": findings/previous/sbag05.md
+          - "SBAG 4: Jan 24-26, 2011": findings/previous/sbag04.md
+          - "SBAG 3: Aug 3-4, 2010": findings/previous/sbag03.md
+          - "SBAG 2: Nov 18-19, 2009": findings/previous/sbag02.md
+          - "SBAG 1: Jan 11-12, 2009": findings/previous/sbag01.md
   # - SBAG Goals Document: goals.md
   # - Other SBAG Documents: documents.md
   # - Presentations by SBAG: reports.md
   # - SBAG Decadal Survey Materials: decadal.md
   # - Science Nuggets: science.md
-  - Early-Career Opportunities: early_career.md
-  - Missions: missions.md
-  - Small Bodies Resources: resources.md
 
 markdown_extensions:
   - tables
