@@ -1,4 +1,5 @@
-# Archive of SBAG Findings
+# Archive of SBAG Findings and Statements
 
 All findings and selected presentation materials from previous SBAG meetings are archived permenantly under the [SBAG Zenodo Community](https://zenodo.org/communities/sbag). The "findings" documents that result from these meetings, which are authored by the SBAG Steering Committee but circulated for open community comments before finalization, are available for preview at the links on this site.
 
+Note that prior to SBAG 35, the list of recommendations and community statements that were created at each meeting were referred to as "findings" documents. As of SBAG 35 and following the change in NASA's relationship with all AG groups, these documents are now referred to as "community statements", though the content and purpose of the documents remains similar.

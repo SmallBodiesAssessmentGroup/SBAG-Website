@@ -44,10 +44,11 @@ nav:
   - Missions: missions.md
   - Small Bodies Resources: resources.md
   - Upcoming SBAG Meeting Information: meetings/index.md
-  - Meetings, Findings, and Statements:
-      - Recent Findings: findings/index.md
+  - Previous Meetings, Findings, and Statements:
       - Archives:
           - Archive Overview: findings/archive.md
+          - "SBAG 35: Jun 9-11, 2026": findings/previous/sbag35.md
+          - "SBAG 34: Jan 13-14, 2026": findings/previous/sbag34.md
           - "SBAG 33: Jun 24-25, 2025": findings/previous/sbag33.md
           - "SBAG 32: Jan 7-9, 2025": findings/previous/sbag32.md
           - "SBAG 31: Jul 11-12, 2024": findings/previous/sbag31.md
