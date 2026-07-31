@@ -1,0 +1,1 @@
+The source repository for [SBAG's website](https://smallbodiesassessmentgroup.github.io/SBAG-Website/). To test changes locally, run `uv run mkdocs serve --livereload` in the root of the repository.
