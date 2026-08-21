@@ -3,24 +3,34 @@
 | Member | Position | Affiliation | Tenure |
 |--------|----------|-------------|--------|
 | Ben Cassese | Early-Career SBAG Coordination Lead | *Minor Planet Center* | 1/26–6/28 |
+| Martin Cordiner | | *NASA Goddard / Catholic University of America* | 8/26-8/29 |
 | Terik Daly | Chair | *Johns Hopkins University Applied Physics Laboratory* | 8/25–9/28 |
-| Daniella DellaGiustina | | *University of Arizona* | 8/23–8/26 |
 | Davide Farnocchia | Planetary Defense Lead | *JPL/Caltech* | 8/25–8/28 |
-| Lori Feaga | Past Chair | *University of Maryland* | 8/22–9/25 |
-| Lorraine Fesq | Technology Lead | *JPL/Caltech* | 8/24–8/27 |
+| Carson Fuls | | *University of Arizona* | 8/26–8/29 |
 | Masatoshi Hirabayashi | | *Georgia Institute of Technology* | 8/25–8/28 |
 | Motoo Ito | International Representative | *Japan Agency for Marine-Earth Science Technology* | 3/24–8/27 |
-| Daniel Mazanek | Human Exploration Lead | *NASA Langley Research Center* | 8/23–8/26 |
 | Patrick Michel | | *Observatoire de la Cote d'Azur, CNRS* | 8/24–8/27 |
+| Mike Nolan | | *University of Arizona* | 8/26–8/29 |
 | Cristina Thomas | | *Northern Arizona University* | 8/25–8/28 |
-| Flaviane Venditti | | *University of Central Florida* | 8/23–8/26 |
-| Anne Verbiscer | | *University of Virginia* | 8/23–8/26 |
+| James Wray | | *Georgia Institute of Technology* | 8/26-8/29 |
 
 ### Observers
 
 > Tom Statler, NASA
 
 ### Past Steering Committee Members
+
+> Lorraine Fesq (8/24-8/26)
+
+> Lori Feaga (8/22–9/25), Chair (8/22–8/25)
+
+> Flaviane Venditti (8/23–8/26)
+
+> Daniella DellaGiustina (8/23–8/26)
+
+> Daniel Mazanek (8/23–8/26)
+
+> Anne Verbiscer (8/23–8/26)
 
 > Hannah Kaplan (8/24–4/26)
 

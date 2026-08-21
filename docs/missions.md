@@ -1,4 +1,4 @@
-# Missions
+<!-- # Missions
 
 ## Planned Missions
 
@@ -111,4 +111,4 @@ Small Body Target(s): 1P/Halley
 
 **Vega 2 (1984–1986)**
 Small Body Target(s): 1P/Halley
-[https://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1984-125A](https://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1984-125A)
+[https://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1984-125A](https://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1984-125A) -->
