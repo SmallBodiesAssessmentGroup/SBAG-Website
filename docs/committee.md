@@ -22,7 +22,7 @@
 
 > Lorraine Fesq (8/24-8/26)
 
-> Lori Feaga (8/22–9/25), Chair (8/22–8/25)
+> Lori Feaga (8/22–8/26), Chair (8/22–8/25)
 
 > Flaviane Venditti (8/23–8/26)
 
