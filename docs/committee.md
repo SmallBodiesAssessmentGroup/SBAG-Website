@@ -20,28 +20,6 @@
 
 ### Past Steering Committee Members
 
-> Lorraine Fesq (8/24-8/26)
-
-> Lori Feaga (8/22–8/26), Chair (8/22–8/25)
-
-> Flaviane Venditti (8/23–8/26)
-
-> Daniella DellaGiustina (8/23–8/26)
-
-> Daniel Mazanek (8/23–8/26)
-
-> Anne Verbiscer (8/23–8/26)
-
-> Hannah Kaplan (8/24–4/26)
-
-> Darryl Z. Seligman (8/23–1/26)
-
-> Olivier Barnouin (8/22–8/25)
-
-> Joe Masiero (8/22–8/25)
-
-> Prajkta Mane (8/22–8/25)
-
 > Paul Abell (8/11–8/15)
 
 > Dan Adamo (8/17–8/20)
@@ -51,6 +29,8 @@
 > Justin Atchison (8/21–8/24)
 
 > Brent Barbee (8/14–8/17)
+
+> Olivier Barnouin (8/22–8/25)
 
 > James Bauer (9/14–8/17)
 
@@ -78,6 +58,8 @@
 
 > John Dankanich (8/11–8/15)
 
+> Daniella DellaGiustina (8/23–8/26)
+
 > Neil Dello Russo (8/12–8/15)
 
 > Michael Disanti (8/18–8/21)
@@ -86,9 +68,11 @@
 
 > Carolyn Ernst (8/18–8/20)
 
-> Lori Feaga (8/15–8/18)
+> Lori Feaga (8/22–8/26), Chair (8/22–8/25)
 
 > Yan Fernandez (8/11–8/14)
+
+> Lorraine Fesq (8/24-8/26)
 
 > David Gerdes (8/18–8/21)
 
@@ -104,7 +88,15 @@
 
 > Stephanie Jarmak (8/21–1/24)
 
+> Hannah Kaplan (8/24–4/26)
+
 > Amy Mainzer (8/11–8/13)
+
+> Prajkta Mane (8/22–8/25)
+
+> Joe Masiero (8/22–8/25)
+
+> Daniel Mazanek (8/23–8/26)
 
 > Tim McCoy (10/07–9/09)
 
@@ -120,6 +112,8 @@
 
 > Jennifer Scully (8/19–8/22)
 
+> Darryl Z. Seligman (8/23–1/26)
+
 > Angela Stickle (8/15–01/18)
 
 > Tim Swindle, Chair (8/16–8/19)
@@ -129,6 +123,10 @@
 > Patrick Taylor (8/17–8/20)
 
 > Timothy Titus (8/21–8/24)
+
+> Flaviane Venditti (8/23–8/26)
+
+> Anne Verbiscer (8/23–8/26)
 
 > Faith Vilas, Chair (10/07–9/09)
 
