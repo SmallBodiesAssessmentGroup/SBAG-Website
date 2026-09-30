@@ -9,9 +9,14 @@ The Small Bodies Assessment Group (SBAG) invites the small bodies community to t
 ### Tentative Agenda:
 Please check back for updates as we get closer to the meeting!
 
-| Item | Time | 
-|------|------|
-| Introduction | 5 minutes |
-| Flash Talks from Missions, Observatories, and Workshops | 30 minutes |
-| Open Mic | 20 minutes |
-| Synthesis | 5 minutes |
+| Item | Time | Speaker |
+|------|------| ------- |
+| Welcome & Opening Remarks | 2:45 | Terik Daly (virtual) |
+| Facility Status: Vera C. Rubin Observatory | 2:50 | Mario Juric |
+| Facility Status: NASA Infrared Telescope Facility | 2:55 | Warren Skidmore |
+| Mission Status: Psyche | 3:00 | Carol Polanskey (virtual) |
+| Mission Status: New Horizons | 3:05 | Kelsi Singer (virtual) |
+| Lightning Summary: Asteroids Comets Meteors Conference | 3:10 | Dagmara Oszkiewicz and Agnieszka Kryszczyńska (virtual) |
+| Lightning Summary: Workshop on the Integrated Science of Comets | 3:15 | Prajkta Mane (virtual) |
+| Open Mic | 3:20 | Community Discussion |
+| Closing Remarks | 3:40 | Terik Daly (virtual) |
