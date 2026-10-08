@@ -6,8 +6,7 @@ The Small Bodies Assessment Group (SBAG) invites the small bodies community to t
 
 **Whether attending remotely or in person, please register [here](https://forms.gle/hod9s1uAbgCGGn5W9).**
 
-### Tentative Agenda:
-Please check back for updates as we get closer to the meeting!
+### Agenda:
 
 | Item | Time | Speaker |
 |------|------| ------- |
