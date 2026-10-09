@@ -17,5 +17,6 @@ The Small Bodies Assessment Group (SBAG) invites the small bodies community to t
 | Mission Status: New Horizons | 3:05 | Kelsi Singer (virtual) |
 | Lightning Summary: Asteroids Comets Meteors Conference | 3:10 | Dagmara Oszkiewicz and Agnieszka Kryszczyńska (virtual) |
 | Lightning Summary: Workshop on the Integrated Science of Comets | 3:15 | Prajkta Mane (virtual) |
-| Open Mic | 3:20 | Community Discussion |
+| Introduction from the NASA Planetary Defense Officer | 3:20 | Brent Barbee |
+| Open Mic | 3:25 | Community Discussion |
 | Closing Remarks | 3:40 | Terik Daly (virtual) |
