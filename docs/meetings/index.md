@@ -14,9 +14,9 @@ The Small Bodies Assessment Group (SBAG) invites the small bodies community to t
 | Facility Status: Vera C. Rubin Observatory | 2:50 | Mario Juric |
 | Facility Status: NASA Infrared Telescope Facility | 2:55 | Warren Skidmore |
 | Mission Status: Psyche | 3:00 | Carol Polanskey (virtual) |
-| Mission Status: New Horizons | 3:05 | Kelsi Singer (virtual) |
+| Mission Status: New Horizons | 3:05 | Anne Verbiscer |
 | Lightning Summary: Asteroids Comets Meteors Conference | 3:10 | Dagmara Oszkiewicz and Agnieszka Kryszczyńska (virtual) |
 | Lightning Summary: Workshop on the Integrated Science of Comets | 3:15 | Prajkta Mane (virtual) |
-| Introduction from the NASA Planetary Defense Officer | 3:20 | Brent Barbee |
+| Introduction from the NASA Planetary Defense Officer | 3:20 | Brent Barbee (virtual) |
 | Open Mic | 3:25 | Community Discussion |
 | Closing Remarks | 3:40 | Terik Daly (virtual) |
